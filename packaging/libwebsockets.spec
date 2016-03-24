@@ -3,7 +3,7 @@ Summary:    WebSocket Library
 Version:    1.7.3
 Release:    1
 Group:      System/Libraries
-License:    LGPL-2.1+
+License:    LGPL-2.1+ OR BSD-2.0
 URL:        https://github.com/warmcat/libwebsockets
 Source0:    %{name}-%{version}.tar.bz2
 Requires(post): /sbin/ldconfig
